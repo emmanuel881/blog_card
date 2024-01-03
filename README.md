@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://blog-card-gamma.vercel.app/)
+- Live Site URL: [here !](https://blog-card-gamma.vercel.app/)
 
 ## My process
 
